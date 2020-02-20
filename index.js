@@ -10,4 +10,4 @@ app.post('/', function (req, res, next) {
   req.on('end', next);
 });
 
-app.listen(4000);
+app.listen(process.env.PORT || 3000);
