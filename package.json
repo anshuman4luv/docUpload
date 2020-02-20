@@ -1,0 +1,14 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "server to simulate upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshuman_Panda",
+  "license": "UPL-1.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
